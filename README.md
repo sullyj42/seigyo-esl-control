@@ -6,9 +6,9 @@
 One of the things that has been lacking from my program is the opportunity to learn programming. Spending all of your time catching up doing math and physics problems takes away time from building code that goes into data collection, experimentation, and other modern approaches to science. After spending last semester painfully pushing through two coding courses, I realized I needed a calmer environment where I could learn in my own way: picking up computer languages such that it serves my interests and career goals. My professor offered me the chance to do so over winter break through creating my own programming project, which brings me to this job now.</p>
 
 ## The Project
-<p align="center">Originally, I intended to build a simple rotating polarizer using a a Raspberry Pi, but given the time it takes for servo motors to ship over, I'm going to use what I have on hand.
-          
-          The current supplies I have are:</p>
+<p align="center">Originally, I intended to build a simple rotating polarizer using a a Raspberry Pi, but given the time it takes for servo motors to ship over, I'm going to use what I have on hand.</p>
+
+<p align="center">The current supplies I have are:</p>
 - Raspberry Pi (2, I think, not entirely sure)
 - Google Nest Mini (Second Gen)
 - My ASUS Laptop
