@@ -24,9 +24,9 @@ One of the things that has been lacking from my program is the opportunity to le
 <p align="center">I'm sure within this assortment of tools there is something cool I can make that will help me learn.</p>
 
 ## Project Goal
-<p align="center>My personal goal is to just become more confortable with programming. I feel like my classes threw me into simply providing answers without actually sitting down and understanding the thoughts behind the code. By the end of this, I just want to be able to actually explain what my project does from the inside out.
+<p align="center>My personal goal is to just become more confortable with programming. I feel like my classes threw me into simply providing answers without actually sitting down and understanding the thoughts behind the code. By the end of this, I just want to be able to actually explain what my project does from the inside out.</p>
           
-The goal of this actualy project is TBD, since I don't know what I'm making yet.</p>
+<p align="center">The goal of this actualy project is TBD, since I don't know what I'm making yet.</p>
 
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects
