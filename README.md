@@ -9,6 +9,7 @@ One of the things that has been lacking from my program is the opportunity to le
 <p align="center">Originally, I intended to build a simple rotating polarizer using a a Raspberry Pi, but given the time it takes for servo motors to ship over, I'm going to use what I have on hand.</p>
 
 <p align="center">The current supplies I have are:</p>
+
 - Raspberry Pi (2, I think, not entirely sure)
 - Google Nest Mini (Second Gen)
 - My ASUS Laptop
