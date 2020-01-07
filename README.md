@@ -30,3 +30,4 @@ The goal of this actualy project is TBD, since I don't know what I'm making yet.
 
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects
+1/7/2020: Formed list of potential projects, currently researching deep learning in video games
