@@ -31,3 +31,4 @@ The goal of this actualy project is TBD, since I don't know what I'm making yet.
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
+1/8/2020: Ran trials of teaching computer to play Super Mario World, currently researching smart home controller<br>
