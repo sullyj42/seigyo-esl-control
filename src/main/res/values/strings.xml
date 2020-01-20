@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Seigyo</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="devices_label">Devices</string>
+    <string name="commands_label">Commands</string>
+    <string name="settings_label">Settings</string>
+    <string name="mic_access_set">Allow microphone access</string>
+    <string name="empty_device_text">No devices added yet!</string>
+    <string name="empty_command_text">No commands added yet!</string>
+    <string name="switch_title">Settings Option</string>
+    <string name="switch_summary">Turn on or off</string>
+    <string name="speaker_access">Allow speaker access</string>
+    <string name="wifi_connect">Select WiFi network</string>
+</resources>
