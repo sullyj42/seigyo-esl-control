@@ -1,4 +1,4 @@
-# Raspberry Pi Project (Working Title)
+# Google Assistant Controller (Seigyo)
 
 ## Who Am I
 Hi! I am a fairly new engineering student investigating optics and electromagnetism at Boston University. Until my start at BU, I spent seven years studying linguistics and translation, so transitioning to STEM was a huge change for me. There have been a lot of things to catch up on, things I've had to put on hold learning due to time and financial constraints, and other mental struggles that come with this new career path. Still, I love what I'm doing, and don't regret a day of this new experience.
@@ -32,3 +32,7 @@ The goal of this actualy project is TBD, since I don't know what I'm making yet.
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
 1/8/2020: Ran trials of teaching computer to play Super Mario World, currently researching smart home controller<br>
+1/12/2020: Decided to make a Google Assistant controller in Android Studio<br>
+1/13/2020: Began building basic apps to familiarize self with AS, working on learning about scrollable tab layout<br>
+1/14/2020: Finished scrollable tabs, now working on creating settings fragment for app
+1/19/2020: Have working system for settings, working on WiFi connectivity
