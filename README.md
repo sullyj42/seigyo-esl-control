@@ -28,6 +28,8 @@ My personal goal is to just become more confortable with programming. I feel lik
           
 The goal of this actualy project is TBD, since I don't know what I'm making yet.
 
+(Jan. 20 update) I am now focused on building an Android app that allows users to create new commands for Google Assistant. After playing with my Google Nest Mini, I learned that the device is very limited in the actions it can take. I am hoping to improve its understanding of commands through a smart controller that allows you to input verbal directions and route the command to opening a separate action.
+
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
