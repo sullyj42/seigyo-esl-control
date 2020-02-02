@@ -50,6 +50,11 @@ I believe that if a machine can be taught proper English, it can be taught impro
 
 ## Seigyo's Components
 
+- Google Actions Console: Hosts the project and deploys our test model for Seigyo
+- Dialogflow: Manages our commands taught to Seigyo. Learns commands types phonetically (beta version supports Filipino-English)
+- Firebase: Powers the inline editor for Dialogflow and manages Cloud functions
+- External applications: Facebook, Youtube, Netflix, Spotify (tentative, still a work in progress)
+
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
