@@ -55,6 +55,10 @@ I believe that if a machine can be taught proper English, it can be taught impro
 - Firebase: Powers the inline editor for Dialogflow and manages Cloud functions
 - External applications: Facebook, Youtube, Netflix, Spotify (tentative, still a work in progress)
 
+## How it works (for the user)
+
+Upon asking 'Hey Google, talk to my control app', Seigyo will activate and await for a command towards a specific external application. Seigyo will confirm whether or not it guessed the correct app, then upon confirmation will open the app for the user.
+
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
