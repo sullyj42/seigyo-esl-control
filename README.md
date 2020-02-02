@@ -30,7 +30,7 @@ I'm sure within this assortment of tools there is something cool I can make that
 
 ## Meaning of 'Seigyo'
 
-Seigyo (制御) is the Japanese word for '[remote] control'.
+Seigyo (制御) is the Japanese word for '[remote] control'. This word was chosen to reflect the control that the assistant should give to the user, as well as the hope that it unifies non-native speakers that feel hesitant to enjoy the ease that technology provides. When one utilizes Seigyo they should feel understood, not frustrated. 
 
 ## Project Goal
 My personal goal is to just become more confortable with programming. I feel like my classes threw me into simply providing answers without actually sitting down and understanding the thoughts behind the code. By the end of this, I just want to be able to actually explain what my project does from the inside out.
@@ -58,5 +58,5 @@ I believe that if a machine can be taught proper English, it can be taught impro
 1/13/2020: Began building basic apps to familiarize self with AS, working on learning about scrollable tab layout<br>
 1/14/2020: Finished scrollable tabs, now working on creating settings fragment for app<br>
 1/19/2020: Have working system for settings, working on WiFi connectivity<br>
-1/31/2020: Began setting up Seigyo's commands through Google Actions. Left up code related to original up for notoriety's sake.<br>
-2/1/2020: Finished arrangement of Seigyo taking in commands to open specific apps. Working on integrating actual opening of apps.
+1/31/2020: Began setting up Seigyo's commands through Google Actions; left up code related to original up for notoriety's sake<br>
+2/1/2020: Finished arrangement of Seigyo taking in commands to open specific apps; working on integrating actual opening of apps<br>
