@@ -1,0 +1,9 @@
+{
+  "id": "b5cfb476-6612-4582-a8bb-351e737f7fd0",
+  "name": "app_select",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": true
+}

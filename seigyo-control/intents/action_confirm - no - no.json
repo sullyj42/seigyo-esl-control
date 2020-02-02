@@ -1,0 +1,36 @@
+{
+  "id": "e78b2182-fc46-48df-9bf6-04f18a133dd4",
+  "parentId": "cd5b6911-a5f6-4afc-8b11-b225c72a6ca7",
+  "rootParentId": "fa1660f1-cccc-4296-ac15-c2efcf9099a0",
+  "name": "action_confirm - no - no",
+  "auto": true,
+  "contexts": [
+    "action_confirm-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "action_confirm.action_confirm-no.action_confirm-no-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, goodbye"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

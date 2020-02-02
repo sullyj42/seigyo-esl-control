@@ -1,0 +1,89 @@
+[
+  {
+    "value": "facebook",
+    "synonyms": [
+      "facebook",
+      "pacebook"
+    ]
+  },
+  {
+    "value": "messenger",
+    "synonyms": [
+      "messenger",
+      "missinger",
+      "tex",
+      "chat",
+      "video coll",
+      "video call"
+    ]
+  },
+  {
+    "value": "netflix",
+    "synonyms": [
+      "video",
+      "netflix",
+      "bideo",
+      "nitflix"
+    ]
+  },
+  {
+    "value": "your phone",
+    "synonyms": [
+      "phone",
+      "coll",
+      "phone number",
+      "telephone"
+    ]
+  },
+  {
+    "value": "spotify",
+    "synonyms": [
+      "music",
+      "song",
+      "band",
+      "spotify",
+      "spotipy",
+      "listen"
+    ]
+  },
+  {
+    "value": "google maps",
+    "synonyms": [
+      "google maps",
+      "gps",
+      "map",
+      "maps",
+      "direction"
+    ]
+  },
+  {
+    "value": "the clock",
+    "synonyms": [
+      "clock",
+      "alarm",
+      "time"
+    ]
+  },
+  {
+    "value": "weather",
+    "synonyms": [
+      "weather",
+      "temperature",
+      "hot",
+      "cold"
+    ]
+  },
+  {
+    "value": "news",
+    "synonyms": [
+      "news"
+    ]
+  },
+  {
+    "value": "youtube",
+    "synonyms": [
+      "youtube",
+      "youchoob"
+    ]
+  }
+]

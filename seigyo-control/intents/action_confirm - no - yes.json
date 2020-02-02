@@ -1,0 +1,49 @@
+{
+  "id": "4d8562c8-b4c1-4053-adfe-11c48bc883d6",
+  "parentId": "cd5b6911-a5f6-4afc-8b11-b225c72a6ca7",
+  "rootParentId": "fa1660f1-cccc-4296-ac15-c2efcf9099a0",
+  "name": "action_confirm - no - yes",
+  "auto": true,
+  "contexts": [
+    "action_confirm-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "action_confirm.action_confirm-no.action_confirm-no-yes",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "72893a1f-477a-496c-b148-80ea40df97b1",
+          "required": false,
+          "dataType": "@app_select",
+          "name": "app_select",
+          "value": "$app_select",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "As you wish"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
