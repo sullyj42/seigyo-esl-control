@@ -59,6 +59,10 @@ I believe that if a machine can be taught proper English, it can be taught impro
 
 Upon asking 'Hey Google, talk to my control app', Seigyo will activate and await for a command towards a specific external application. Seigyo will confirm whether or not it guessed the correct app, then upon confirmation will open the app for the user.
 
+## Challenges
+
+The main challenge is the limitation of using Dialogflow agents. Dialogflow does not support actually running external applications all that smoothly, and for the sake of time we were limited to the front half of the controller and not the in depth commands we hope to expand on in order to show the awareness Seigyo has for understanding varying grammar and phonemes. Moving forward, we will be working on how to actually integrate these without the weekend time crunch.
+
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
 1/7/2020: Formed list of potential projects, currently researching deep learning in video games<br>
