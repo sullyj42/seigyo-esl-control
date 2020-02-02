@@ -28,6 +28,10 @@ Originally, I intended to build a simple rotating polarizer using a a Raspberry 
 
 I'm sure within this assortment of tools there is something cool I can make that will help me learn.
 
+## Meaning of 'Seigyo'
+
+Seigyo (制御) is the Japanese word for '[remote] control'.
+
 ## Project Goal
 My personal goal is to just become more confortable with programming. I feel like my classes threw me into simply providing answers without actually sitting down and understanding the thoughts behind the code. By the end of this, I just want to be able to actually explain what my project does from the inside out.
           
@@ -35,12 +39,16 @@ The goal of this actualy project is TBD, since I don't know what I'm making yet.
 
 (Jan. 20 update) I am now focused on building an Android app that allows users to create new commands for Google Assistant. After playing with my Google Nest Mini, I learned that the device is very limited in the actions it can take. I am hoping to improve its understanding of commands through a smart controller that allows you to input verbal directions and route the command to opening a separate action.
 
+(Jan. 31 update) After realizing how limited my understanding of Java and Android Studio is, I decided to shift away from making the app, as I got stuck on figuring out how to integrate Wifi usability. This transition lead to the current and final draft of Seigyo: the English as a second language (ESL) voice assistant.
+
 ## So, what is it?
 This took a long time to figure out, but in the final moments, I realized what was most important to me was to make something that would be useful to someone in my life. That person ended up being my mom.
 
 This controller is trained via Google Actions and Dialogflow to be taught "Broken English". My mom moved to the US in 1992, but still has maintained her native accent until now, which has made conversations difficult for her sometimes. This has also made it hard for her to engage with the modern world's smart technology. I've spent my whole life watching ESL speakers struggle to work with devices, particularly vocally-triggered ones, which seems highly unfair as companies lean into these new technologies.
 
 I believe that if a machine can be taught proper English, it can be taught improperly as well. I am currently training Google Assistant to learn my mom's phonetic pronunciations, grammar arrangement, and other tics when speaking. Hopefully this can develop to help non-native speakers in general, as well as inspire other languages to also adapt their Alexas and Siris to learn second language understanding as well.
+
+## Seigyo's Components
 
 ## Updates
 1/6/2020: Repo is made, set out available tools, researching potential projects<br>
