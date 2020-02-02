@@ -50,5 +50,5 @@ I believe that if a machine can be taught proper English, it can be taught impro
 1/13/2020: Began building basic apps to familiarize self with AS, working on learning about scrollable tab layout<br>
 1/14/2020: Finished scrollable tabs, now working on creating settings fragment for app<br>
 1/19/2020: Have working system for settings, working on WiFi connectivity<br>
-1/31/2020: Began setting up Seigyo's commands through Google Actions. Left up code related to original up for notoriety's sake.
+1/31/2020: Began setting up Seigyo's commands through Google Actions. Left up code related to original up for notoriety's sake.<br>
 2/1/2020: Finished arrangement of Seigyo taking in commands to open specific apps. Working on integrating actual opening of apps.
