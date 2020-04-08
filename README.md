@@ -2,8 +2,9 @@
 
 ## Who we are
 
-Elise DeCarli<br>
 Jennifer Campbell
+Jeremiah Sullivan
+Elise DeCarli (Past Team Member)
 
 ### Background
 Hi! I (Jenny) am a fairly new engineering student investigating optics and electromagnetism at Boston University. Until my start at BU, I spent seven years studying linguistics and translation, so transitioning to STEM was a huge change for me. There have been a lot of things to catch up on, things I've had to put on hold learning due to time and financial constraints, and other mental struggles that come with this new career path. Still, I love what I'm doing, and don't regret a day of this new experience.
@@ -35,8 +36,6 @@ Seigyo (制御) is the Japanese word for '[remote] control'. This word was chose
 ## Project Goal
 My personal goal is to just become more confortable with programming. I feel like my classes threw me into simply providing answers without actually sitting down and understanding the thoughts behind the code. By the end of this, I just want to be able to actually explain what my project does from the inside out.
           
-The goal of this actualy project is TBD, since I don't know what I'm making yet.
-
 (Jan. 20 update) I am now focused on building an Android app that allows users to create new commands for Google Assistant. After playing with my Google Nest Mini, I learned that the device is very limited in the actions it can take. I am hoping to improve its understanding of commands through a smart controller that allows you to input verbal directions and route the command to opening a separate action.
 
 (Jan. 31 update) After realizing how limited my understanding of Java and Android Studio is, I decided to shift away from making the app, as I got stuck on figuring out how to integrate Wifi usability. This transition lead to the current and final draft of Seigyo: the English as a second language (ESL) voice assistant.
@@ -73,3 +72,4 @@ The main challenge is the limitation of using Dialogflow agents. Dialogflow does
 1/19/2020: Have working system for settings, working on WiFi connectivity<br>
 1/31/2020: Began setting up Seigyo's commands through Google Actions; left up code related to original up for notoriety's sake<br>
 2/1/2020: Finished arrangement of Seigyo taking in commands to open specific apps; working on integrating actual opening of apps<br>
+4/1/2020: Project has been forked for use in the EC500 Final Project
